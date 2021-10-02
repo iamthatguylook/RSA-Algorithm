@@ -1,1 +1,1 @@
-checking if this is connected to githubs
+checking if this is connected to github.
